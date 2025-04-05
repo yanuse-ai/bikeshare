@@ -1,9 +1,6 @@
 # pull python base image
 FROM python:3.10-slim
 
-#copy the wheel file
-COPY /dist/*.whl /bike_sharing_api/
-
 # copy application files
 ADD /bike_sharing_api /bike_sharing_api/
 
