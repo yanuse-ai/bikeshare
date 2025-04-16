@@ -1,4 +1,4 @@
-# bikeshare
+# bikeshare project
 Mini Project 2: Continuous Integration for Model Training
 
 Objective: Implement a CI/CD pipeline to continuously train and deploy an ML model.
